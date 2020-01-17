@@ -1,0 +1,17 @@
+@import "../../../static/variables";
+
+.item {
+  font-family: $Proxima_Nova_Font;
+  font-size: 18px;
+  display: flex;
+  height: 100%;
+  margin: 20px;
+  text-decoration: none;
+  color: #222B3A;
+  img {
+    margin: 0 12px 0 0 ;
+  }
+  li {
+    list-style-type: none;
+  }
+}
