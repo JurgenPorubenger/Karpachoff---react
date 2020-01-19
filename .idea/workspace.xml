@@ -2,165 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f644b8b-f538-414c-8427-47e2ac6d2dda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Footer/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Footer/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/logo/Слой 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/navigation_item/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/navigation_item/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Containers/MainPage/MainPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Containers/MainPage/SubHeader/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Containers/MainPage/SubHeader/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Black.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-BlackIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-BlackIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-BlackIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-BoldIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-BoldIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-BoldIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Extrabld.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Extrabld.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Extrabld.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-ExtrabldIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-ExtrabldIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-ExtrabldIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-LightIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-LightIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-LightIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-RegularIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-RegularIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-RegularIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Semibold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Semibold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-Semibold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-SemiboldIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-SemiboldIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-SemiboldIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-ThinIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-ThinIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNova-ThinIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Black.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-BlackIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-BlackIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-BlackIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-BoldIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-BoldIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-BoldIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Extrabld.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Extrabld.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Extrabld.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-ExtrabldIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-ExtrabldIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-ExtrabldIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-LightIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-LightIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-LightIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-RegularIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-RegularIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-RegularIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Semibold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Semibold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Semibold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-SemiboldIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-SemiboldIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-SemiboldIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Thin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-ThinIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-ThinIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaCond-ThinIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Black.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-BlackIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-BlackIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-BlackIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-BoldIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-BoldIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-BoldIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Extrabld.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Extrabld.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Extrabld.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-ExtrabldIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-ExtrabldIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-ExtrabldIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-LightIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-LightIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-LightIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-RegularIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-RegularIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-RegularIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Semibold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Semibold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Semibold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-SemiboldIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-SemiboldIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-SemiboldIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Thin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-ThinIt.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-ThinIt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaExCn-ThinIt.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaT-Thin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaT-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/ProximaNovaT-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/ProximaNova/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/icons/Group.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/images/BackgroundHeader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionModuleTasks/TaskItem/TaskItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionModuleTasks/TaskItem/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionModuleTasks/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionModuleTasks/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/fonts/Intro/Intro.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/icons/CheckboxRectangle.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/MainPage/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/MainPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/MainPage/SubHeader/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/MainPage/SubHeader/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/_variables.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -173,7 +44,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Containers/MainPage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -190,16 +62,16 @@
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/Components" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Containers/MainPage" />
-      <recent name="$PROJECT_DIR$/src/Containers/MainPage/SubHeader" />
-      <recent name="$PROJECT_DIR$/src/Components/Footer" />
-      <recent name="$PROJECT_DIR$/src/static/images" />
+      <recent name="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar" />
+      <recent name="$PROJECT_DIR$/src/static/fonts/Intro" />
+      <recent name="$PROJECT_DIR$/src/Containers/MainPage/ModuleTasks/TaskItem" />
       <recent name="$PROJECT_DIR$/src/static/icons" />
+      <recent name="$PROJECT_DIR$/src/Containers/MainPage/ModuleTasks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,8 +115,16 @@
       <workItem from="1579023820418" duration="4320000" />
       <workItem from="1579093121564" duration="9834000" />
       <workItem from="1579154148639" duration="6623000" />
-      <workItem from="1579210097602" duration="4372000" />
+      <workItem from="1579210097602" duration="34668000" />
     </task>
+    <task id="LOCAL-00001" summary="add react-dom eslint subHeader">
+      <created>1579241030421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579241030421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,5 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add react-dom eslint subHeader" />
+    <option name="LAST_COMMIT_MESSAGE" value="add react-dom eslint subHeader" />
   </component>
 </project>

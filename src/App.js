@@ -8,7 +8,7 @@ import {
 } from 'react-router-dom';
 import Header from './Components/Header/index';
 import Footer from './Components/Footer/index';
-import MainPage from './Containers/MainPage/MainPage';
+import MainPage from './Components/Containers/MainPage/MainPage';
 
 function App() {
   return (
