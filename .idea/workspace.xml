@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f644b8b-f538-414c-8427-47e2ac6d2dda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionSubHeader/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionSubHeader/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/hoc/Blogpost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/hoc/CommentList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/hoc/hoc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/MainPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionSubHeader/ProgressBar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionSubHeader/ProgressBar/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionBreadCrumbs/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionBreadCrumbs/index.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -29,7 +40,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/hoc" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -47,16 +58,16 @@
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar" />
-      <recent name="$PROJECT_DIR$/src/static/fonts/Intro" />
-      <recent name="$PROJECT_DIR$/src/Containers/MainPage/ModuleTasks/TaskItem" />
-      <recent name="$PROJECT_DIR$/src/static/icons" />
-      <recent name="$PROJECT_DIR$/src/Containers/MainPage/ModuleTasks" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Components" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/hoc" />
+      <recent name="$PROJECT_DIR$/src/Components/Containers/MainPage" />
+      <recent name="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar" />
+      <recent name="$PROJECT_DIR$/src/static/fonts/Intro" />
+      <recent name="$PROJECT_DIR$/src/Containers/MainPage/ModuleTasks/TaskItem" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -71,8 +82,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.npm start">
+  <component name="RunManager" selected="Node.js.Main.jsx">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="Main.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Main.jsx" working-dir="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact">
       <method v="2" />
     </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
@@ -85,6 +99,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Main.jsx" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -101,8 +120,7 @@
       <workItem from="1579093121564" duration="9834000" />
       <workItem from="1579154148639" duration="6623000" />
       <workItem from="1579210097602" duration="34668000" />
-      <workItem from="1579520790988" duration="1411000" />
-      <workItem from="1579595619007" duration="473000" />
+      <workItem from="1579547012762" duration="6808000" />
     </task>
     <task id="LOCAL-00001" summary="add react-dom eslint subHeader">
       <created>1579241030421</created>
