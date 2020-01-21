@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f644b8b-f538-414c-8427-47e2ac6d2dda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionModuleTasks/TaskItem/TaskItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionModuleTasks/TaskItem/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionModuleTasks/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionModuleTasks/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/fonts/Intro/Intro.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/icons/CheckboxRectangle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/MainPage/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/MainPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/MainPage/SubHeader/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/MainPage/SubHeader/index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/_variables.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +101,8 @@
       <workItem from="1579093121564" duration="9834000" />
       <workItem from="1579154148639" duration="6623000" />
       <workItem from="1579210097602" duration="34668000" />
+      <workItem from="1579520790988" duration="1411000" />
+      <workItem from="1579595619007" duration="473000" />
     </task>
     <task id="LOCAL-00001" summary="add react-dom eslint subHeader">
       <created>1579241030421</created>
