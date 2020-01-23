@@ -30,7 +30,7 @@ export default function withSubscription(WrappedComponent, selectData) {
     render() {
       // ... и рендерит оборачиваемый компонент со свежими данными!
       // Обратите внимание, что мы передаём остальные пропсы
-        // eslint-disable-next-line react/jsx-filename-extension,react/destructuring-assignment,react/jsx-props-no-spreading
+      // eslint-disable-next-line react/jsx-filename-extension,react/destructuring-assignment,react/jsx-props-no-spreading
       return <WrappedComponent data={this.state.data} {...this.props} />;
     }
   };

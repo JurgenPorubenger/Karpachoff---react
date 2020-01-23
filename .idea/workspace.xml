@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f644b8b-f538-414c-8427-47e2ac6d2dda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionSubHeader/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionSubHeader/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/Main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/hoc/Blogpost.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/hoc/CommentList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/hoc/hoc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/MainPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionSubHeader/ProgressBar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/ProgressBar/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionSubHeader/ProgressBar/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionBreadCrumbs/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/SubHeader/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/SectionBreadCrumbs/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/hoc/hoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/hoc/hoc.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +31,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Containers/MainPage/TrainReact/hoc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -151,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add react-dom eslint subHeader" />
-    <option name="LAST_COMMIT_MESSAGE" value="add react-dom eslint subHeader" />
+    <MESSAGE value="workplace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workplace" />
   </component>
 </project>
