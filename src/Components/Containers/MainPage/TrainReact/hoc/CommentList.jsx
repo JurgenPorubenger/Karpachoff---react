@@ -1,3 +1,6 @@
 import React from 'react';
 
-export default () => <div>CommentList</div>;
+// eslint-disable-next-line react/prop-types
+export default function (props) {
+  return <div>jjjj</div>;
+}
