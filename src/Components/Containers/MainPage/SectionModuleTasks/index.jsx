@@ -26,7 +26,7 @@ class ModuleTasks extends React.Component {
     return (
       <div className="ModuleTasks">
         {
-        modules.map((el) => <TaskItem modules={el} />)
+        modules.map((el, i) => <TaskItem modules={el} key={i} />)
         }
       </div>
     );

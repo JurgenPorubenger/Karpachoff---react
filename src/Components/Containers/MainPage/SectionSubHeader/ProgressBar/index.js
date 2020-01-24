@@ -5,13 +5,13 @@ function progressBar(props) {
   return (
     <div className="progress_bar">
       <div className="range">
-          <div className="content_range" style={{width:'80%'}} />
+          <div className="content_range" style={{width:'60%'}} />
           <div className="left_range">
             <p>
                 10<span> тем <br/> всего</span>
             </p>
         </div>
-        <div className="right_range" style={{left:'80%'}} >
+        <div className="right_range" style={{left:'60%'}} >
             <p>
                 8<span> тем <br/> выполнено</span>
             </p>
