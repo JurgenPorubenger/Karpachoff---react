@@ -2,6 +2,5 @@ import React from 'react';
 
 // eslint-disable-next-line react/prop-types
 export default function (props) {
-  console.log(props.data+'commentlist');
-  return <div>cscs</div>;
+  return <div>{props.data.map((el) => el.name)}</div>;
 }
